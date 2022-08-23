@@ -1,0 +1,8 @@
+"../../../PlagueProject/Content/ArtAsset/Texture/UI/PlayerInputIcons/XBox/XBox_FaceButtons_Bottom.uasset"
+"../../../PlagueProject/Content/ArtAsset/Texture/UI/PlayerInputIcons/XBox/XBox_FaceButtons_Bottom.uexp"
+"../../../PlagueProject/Content/ArtAsset/Texture/UI/PlayerInputIcons/XBox/XBox_FaceButtons_Left.uasset"
+"../../../PlagueProject/Content/ArtAsset/Texture/UI/PlayerInputIcons/XBox/XBox_FaceButtons_Left.uexp"
+"../../../PlagueProject/Content/ArtAsset/Texture/UI/PlayerInputIcons/XBox/XBox_FaceButtons_Right.uasset"
+"../../../PlagueProject/Content/ArtAsset/Texture/UI/PlayerInputIcons/XBox/XBox_FaceButtons_Right.uexp"
+"../../../PlagueProject/Content/ArtAsset/Texture/UI/PlayerInputIcons/XBox/XBox_FaceButtons_Top.uasset"
+"../../../PlagueProject/Content/ArtAsset/Texture/UI/PlayerInputIcons/XBox/XBox_FaceButtons_Top.uexp"
