@@ -1,5 +1,7 @@
 # Blasphemous
 
+**[link to release](https://github.com/ZeusOfTheCrows/nsx-button-prompts/releases/tag/blasphemous)**
+
 ### to install (simple)
 * locate your blasphemous folder
 	* (by default: `C:\Program Files (x86)\Steam\steamapps\common\Blasphemous`)
