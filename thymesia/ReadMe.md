@@ -1,3 +1,5 @@
+[release page](https://github.com/ZeusOfTheCrows/nsx-button-prompts/releases/tag/thymesia)
+
 # to install
 * locate your game folder
 	* usually steam -> cog -> manage -> browse local files
