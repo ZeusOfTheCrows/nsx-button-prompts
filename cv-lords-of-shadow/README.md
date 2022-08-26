@@ -4,8 +4,8 @@
 
 ### to install:
 
-* (optionally) backup/rename your vanilla Data00.dat
-* copy Data00.dat to your game directory, overwriting existing file
+* (optionally) backup/rename your vanilla `Data00.dat`
+* copy `Data00.dat` to your game directory, overwriting existing file
 
 
 a backup of the original file is included for convenient uninstallation, but one can safely

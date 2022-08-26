@@ -8,7 +8,7 @@
 
 ### To install (manually):
 
-* Download no-igp11 file, and unpack from .\font\ to [game_directory]\Game\font\
+* Download no-igp11 file, and unpack from `.\font\` to `[game_directory]\Game\font\`
 
 (This version may work with non-sotfs, but it's untested)
 
