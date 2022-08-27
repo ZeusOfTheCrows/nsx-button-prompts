@@ -1,6 +1,6 @@
 # [Nintendo Button Prompt Mods](https://zeusofthecrows.github.io/games/mods/nsx-buttons/)
 
-![hero image](./hero.jpg)
+![hero image](./imgs/hero.jpg)
 
 a series of mods that add the nintendo layout controller button prompts to
 games, coloured in the SNES/SFC layout colours
