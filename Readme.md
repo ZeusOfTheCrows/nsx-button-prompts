@@ -19,6 +19,19 @@ already own it or plan to buy it in the future
 
 ---
 
+## Games list
+
+* [Blasphemous](https://github.com/ZeusOfTheCrows/nsx-button-prompts/releases/tag/blasphemous)
+* [CastleVania: Lords of Shadow](https://github.com/ZeusOfTheCrows/nsx-button-prompts/releases/tag/cv-los)
+* [Dark Souls I/Remastered](https://github.com/ZeusOfTheCrows/nsx-button-prompts/releases/tag/dark-souls-i)
+* [Dark Souls II](https://github.com/ZeusOfTheCrows/nsx-button-prompts/releases/tag/dark-souls-ii)
+* [Dark Souls III](https://github.com/ZeusOfTheCrows/nsx-button-prompts/releases/tag/dark-souls-iii)
+* [Demon's Souls](https://github.com/ZeusOfTheCrows/nsx-button-prompts/releases/tag/demons-souls)
+* [Elden Ring](https://github.com/ZeusOfTheCrows/nsx-button-prompts/releases/tag/elden-ring)
+* [Thymesia](https://github.com/ZeusOfTheCrows/nsx-button-prompts/releases/tag/thymesia)
+
+---
+
 any commits older than \~2022-08-27 are not hugely informative, as that's when
 i realised i'd made enough of these to probably warrant a non-nexus mods mirror
 and uploaded to github
