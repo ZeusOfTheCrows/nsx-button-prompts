@@ -3,6 +3,7 @@
 **[link to release](https://github.com/ZeusOfTheCrows/nsx-button-prompts/releases/tag/blasphemous)**
 
 ### to install (simple)
+
 * locate your blasphemous folder
 	* (by default: `C:\Program Files (x86)\Steam\steamapps\common\Blasphemous`)
 * (optionally) back up your vanilla `data.unity3d` file
@@ -10,10 +11,13 @@
 * copy `data.unity3d` to your `Blasphemous_Data\`
 
 ### to install (for merging with other mods)
-* follow the *import* section of
-	[this guide](https://github.com/RedFurryDemon/BlasphemousModdingNotes/blob/master/notes/Graphics.md)
+
+* follow the *import* section of [this guide](https://github.com/RedFurryDemon/BlasphemousModdingNotes/blob/master/notes/Graphics.md)
 * in step 4, select the texture `all_platform_buttons`
 * load the included `all_platform_buttons-resources.assets-884.png`
+	* optionally, compress as [explained here](https://zenhax.com/viewtopic.php?t=14147)
+		* (`file` →`compress`, open file, select compression in bottom panes, save file as)
+		* on linux/wine, selecting lz4 crashes, but lzma is okay. i don't know about windows
 * install as above
 
 **/!\ game may load slowly first launch after installation - i'm not quite sure
@@ -29,7 +33,8 @@ why this is, but it's fine after that**
 			[as a trojan](https://github.com/SeriousCache/UABE/issues/479).
 			proceed with caution
 	* aseprite
-		* paint.net or gimp should do fine
+		* a free alternative is pixelorama
+		* but paint.net or gimp should do fine
 
 * edited files:
 	* data.unity3d
