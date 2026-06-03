@@ -1,0 +1,16 @@
+- used [uabe avalonia v8](https://github.com/nesrak1/UABEA/releases/tag/v8) through wine
+  - must set a "DISPLAY" if running through q4wine for some reason - any № will do
+  - downloading fonts with winetricks is recommended
+- all replaced textures are in `globalgamemanagers` (not `globalgamemanagers.assets`)
+- i have replaced `leaf_6r_controller_NX`, `_PS4`, and `_PS5` as well as `leaf_6r_controller_XB`
+  - this may not be _necessary_, but why not as it should work with any controller
+  - it is, however, untested
+- `.xcf` files are gimp layer files (may need gimp 3, if you're on an lts distro)
+- /!\ DO NOT USE THE PROVIDED `platform_sprites` FILES /!\
+	- they are there as a preview only
+	- re-export them from gimp with a larger bit depth. this creates massive images, so not uploaded
+	- `platform_sprites` images **must** be exported with a greater bit depth. i used 16 bits per pixel rgba - 8bpp causes ugly aliases around button icons on manual pages
+	- i also saved colour info from transparent pixels (maybe for blending? if not stripped automatically? untested)
+	- one could probably use a smaller file type, but i used that to skip trial and error, and i believe uabea does converts them down automatically well enough
+- "sfc-switched" versions are how the controls are laid out on switch (see https://theindieinformer.com/2022/09/28/tunic-switch-version-impressions/#:~:text=Nintendo%2Desque%20controls)
+- the sfc-switched version was an idea to have a a diagramme for interact / menu accept on (A), similar to zelda3 alttp. unfortunately, i couldn't make this work with the /!\ SPOILERS /!\ (in strikethrough to make it slightly harder to read accidentally) ~~yellow square, as it gets cut off by the page in game~~ (maybe you could edit the leaf_6 image if it's important to you? untested)
